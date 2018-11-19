@@ -4,7 +4,7 @@ require './lib/bookmark.rb'
 class BookmarkManager < Sinatra::Base
 
   get '/' do
-    'Hello World'
+    'bookmarks'
   end
 
   get '/bookmarks' do
