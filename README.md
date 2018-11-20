@@ -11,6 +11,9 @@ As a time-pressed user
 So that I can save a website
 I would like to add the site's address and title to bookmark manager
 
+As a user
+So I can store bookmark data for later retrieval
+I want to add a bookmark to Bookmark Manager
 ```
 image of domain model: https://github.com/makersacademy/course/blob/master/bookmark_manager/images/bookmark_manager_1.png
 
